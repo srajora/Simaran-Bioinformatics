@@ -3,7 +3,7 @@ A curated bioinformatics toolkit with tutorials, notes, and pipelines
 # 🧬 Simaran's Bioinformatics Toolkit
 
 Welcome to my personal bioinformatics learning and research toolkit!  
-This repository is inspired by [evanpeikon/Bioinformatics_Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit) and serves as a structured space to explore, document, and share bioinformatics concepts, pipelines, and experiments.
+This repository serves as a structured space to explore, document, and share bioinformatics concepts, pipelines, and experiments.
 
 ---
 
